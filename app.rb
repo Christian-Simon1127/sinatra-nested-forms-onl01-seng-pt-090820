@@ -8,7 +8,7 @@ module FormsLab
     end
     
     post '/pirates' do 
-      
+      @pirate = 
       
       
       
