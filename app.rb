@@ -12,7 +12,7 @@ module FormsLab
       
       
       
-      erb :'pirates/new'
+      erb :'pirates/show'
     end
 
   end
